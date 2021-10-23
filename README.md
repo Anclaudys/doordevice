@@ -1,4 +1,7 @@
 # NokNok
+
+A RaspberryPi-based security system that provides 24/7 live camera feeds for your household
+
 ![knockknock](https://user-images.githubusercontent.com/64286678/138533749-05431849-f62b-49ea-b909-d3f6142496cd.png)
 
 ## Motivation
